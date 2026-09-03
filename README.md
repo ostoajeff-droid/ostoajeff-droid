@@ -1,7 +1,7 @@
 <h1 align="center">Hello u </h1>
 
 <p align="center">
-<b>• 🤖 videogame programador</b> <b>• Aprendiedo :} 💻</b>
+<b>• 🤖 videogame programador me gusta crear</b> <b>• Aprendiedo :} 💻</b>
 </p>
 
 <p align=center><img src="https://i.pinimg.com/originals/5e/65/1d/5e651ddb2d45f4f6ca418c1a653669cb.gif"></p>
